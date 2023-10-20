@@ -150,6 +150,7 @@ def lambda_handler(event, context):
 
 # Assignment-6
 
+* Auto-Tagging EC2 Instances on Launch Using AWS Lambda and Boto3
 
 ## Step1 EC2 Setup:
 
